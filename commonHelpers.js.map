@@ -1,1 +1,1 @@
-{"version":3,"file":"commonHelpers.js","sources":["../src/js/02-snackbar.js"],"sourcesContent":["console.log(\"dupa\")"],"names":[],"mappings":"ssBAAA,QAAQ,IAAI,MAAM"}
+{"version":3,"file":"commonHelpers.js","sources":["../src/js/01-timer.js","../src/js/02-snackbar.js"],"sourcesContent":["import flatpickr from \"flatpickr\";\nimport \"flatpickr/dist/flatpickr.min.css\";\n\n\nflatpickr(\"#datetime-picker\");\n","console.log(\"dupa\")"],"names":["flatpickr"],"mappings":"svBAIAA,EAAU,kBAAkB,ECJ5B,QAAQ,IAAI,MAAM"}
