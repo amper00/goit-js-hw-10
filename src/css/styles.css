@@ -116,6 +116,18 @@ button {
   border-radius: 8px;
   width: 75px;
   height: 40px;
+
 }
 
 
+button:hover 
+{
+
+background-color: #4E75FF;
+color: white;
+}
+.disabled
+{
+  opacity: 0.5;
+  cursor: not-allowed;
+}
